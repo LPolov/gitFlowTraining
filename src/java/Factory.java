@@ -5,6 +5,6 @@ public class Factory {
     System.out.println("Factory was created");
   }
   public static void main(String[] args) {
-    System.out.println("");
+    System.out.println("Hello there");
   }
 }
