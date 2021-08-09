@@ -7,6 +7,6 @@ public class Wheal {
 
   @Override
   public String toString() {
-    return "Wheal{}";
+    return "Wheal";
   }
 }
