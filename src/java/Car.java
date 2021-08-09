@@ -5,6 +5,6 @@ public class Car {
 
   }
   public void ride(String name) {
-    System.out.println("");
+    System.out.println("Riding" + name);
   }
 }
