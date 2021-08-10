@@ -10,9 +10,6 @@ public class Wheal {
     System.out.println("jump");
   }
 
-  public void jump() {
-    System.out.println("jump");
-  }
   @Override
   public boolean equals(Object o) {
     if (this == o) {
