@@ -11,7 +11,7 @@ public class Wheal {
   }
 
   public void jump() {
-
+    System.out.println("jump");
   }
   @Override
   public boolean equals(Object o) {
