@@ -4,6 +4,11 @@ import java.util.List;
 
 public class Car {
   private List<Wheal> whealList;
+
+  public Car(List<Wheal> whealList) {
+    this.whealList = whealList;
+  }
+
   public static void main(String[] args) {
 
   }
