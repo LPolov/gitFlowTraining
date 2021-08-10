@@ -5,8 +5,9 @@ import java.util.Objects;
 public class Wheal {
   private int diameter;
 
-  public void swim() {
 
+  public void jump() {
+    System.out.println("jump");
   }
   @Override
   public boolean equals(Object o) {
