@@ -18,5 +18,8 @@ public class Car {
     System.out.println("Riding " + name);
     System.out.println("Riding " + name);
     System.out.println("Riding " + name);
+    System.out.println("Riding " + name);
+    System.out.println("Riding " + name);
+    System.out.println("Riding " + name);
   }
 }
